@@ -9,7 +9,7 @@ As you may probably know, I got crazy and [wrote a whole Gouraud Shader for CPU]
 You should have [Processing](https://processing.org/) installed and then, all you need is to open the `pde` files and run them.
 
 ## References
-- Notes from [Dr. Pourbenyamin](http://faculty.iauctb.ac.ir/a-purbenyamin-comp/fa)'s Graphics II Class &mdash; Much of the work was made based on these notes.
+- Notes from [Dr. Purbenyamin](http://faculty.iauctb.ac.ir/a-purbenyamin-comp/en)'s Graphics II Class &mdash; Much of the work was made based on these notes.
 - [Phong Shading Formula](http://www.cs.northwestern.edu/~ago820/SIG98/sig98_talk_web2/sld037.htm) &mdash; for the Formula of course (ends to be needless of `cos`)
 - [The Phong Model, Introduction to the Concepts of Shader, Reflection Models and BRDF](http://www.scratchapixel.com/lessons/3d-basic-rendering/phong-shader-BRDF) from _Scratch A Pixel_ &mdash; I used this to find the best `Ks` and `n` values.
 - [Illumination for Computer Generated Pictures](http://www.cs.northwestern.edu/~ago820/cs395/Papers/Phong_1975.pdf) &mdash; The original paper Dr. Bui Tuong Phong. Because you should always start from the origin.
