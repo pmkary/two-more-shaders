@@ -1,10 +1,12 @@
 
-# Two More Shaders
+# Diffuse and Phong Shaders
 
-This is a very simple [Diffuse Reflection Shader](https://en.wikipedia.org/wiki/Diffuse_reflection) done as a OpenGL Shader with Processing as the host environment.
+As you may probably know, I got crazy and [wrote a whole Gouraud Shader for CPU](https://github.com/pmkary/basic-gouraud-shader). Since then I wanted my shaders to be complete and so, using the power of GLSL and Processing these are the last two shaders one might need:
 
-<img width="838" alt="Pouya Kary's Diffuse Shader" src="https://user-images.githubusercontent.com/2157285/41441476-f570dcfc-7047-11e8-96f2-a8c9a8ad7d82.png">
+![Pouya Kary's Phong and Diffuse Shaders in GLSL](https://user-images.githubusercontent.com/2157285/41479920-082bb6ba-70e2-11e8-8b59-1df9e32b1399.png)
 
+## How to run them?
+You should have [Processing](https://processing.org/) installed and then, all you need is to open the `pde` files and run them.
 
 ## References
 - Notes from [Dr. Pourbenyamin's Graphics II Class](http://faculty.iauctb.ac.ir/a-purbenyamin-comp/fa) &mdash; Much of the work was made based on these notes.
