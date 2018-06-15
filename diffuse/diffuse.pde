@@ -1,4 +1,7 @@
 
+//
+// Copyright 2018-preset by Pouya Kary <pouya@kary.us>
+//
 
 PShader toon;
 
